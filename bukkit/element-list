@@ -1,0 +1,15 @@
+com.plotsquared.bukkit
+com.plotsquared.bukkit.entity
+com.plotsquared.bukkit.generator
+com.plotsquared.bukkit.inject
+com.plotsquared.bukkit.listener
+com.plotsquared.bukkit.managers
+com.plotsquared.bukkit.permissions
+com.plotsquared.bukkit.placeholder
+com.plotsquared.bukkit.player
+com.plotsquared.bukkit.queue
+com.plotsquared.bukkit.schematic
+com.plotsquared.bukkit.util
+com.plotsquared.bukkit.util.fawe
+com.plotsquared.bukkit.util.task
+com.plotsquared.bukkit.uuid
